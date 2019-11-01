@@ -52,6 +52,7 @@ module.exports = {
   ],
   cask: [
     //'adium',
+    'aerial',
     //'amazon-cloud-drive',
     //'atom',
     'bettertouchtool',
