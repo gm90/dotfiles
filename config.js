@@ -54,6 +54,7 @@ module.exports = {
     //'adium',
     //'amazon-cloud-drive',
     //'atom',
+    'bettertouchtool',
     // 'box-sync',
     //'comicbooklover',
     //'diffmerge',
